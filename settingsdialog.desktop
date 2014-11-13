@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Wacom Graphics Tablet
+Comment=GSD-based Wacom tablet preferences
+Exec=gnome-control-center wacom
+OnlyShowIn=XFCE;
+Icon=input-tablet
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;
+Keywords=Tablet;Wacom;Stylus;Eraser;Mouse;
+Terminal=false
