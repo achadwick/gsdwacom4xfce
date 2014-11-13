@@ -17,6 +17,9 @@ make install
 
 After installation, you'll find the GNOME Wacom settings
 available in the Xfce Settings Manager under the *Hardware* heading.
+
+![Screenshot highlighting the settings' location](screenshot.png?raw=true)
+
 The installer also puts an extra Wacom-related startup application
 in *Session and Startup*.
 After you log out and back in again,
