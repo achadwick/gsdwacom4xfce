@@ -26,8 +26,15 @@ After you log out and back in again,
 `gnome-settings-daemon` will be running
 and you'll be able to plug in your tablet and configure the extra buttons.
 
-There is a corresponding `uninstall` target for removing **gsdwacom4xfce**.
-It reverts your session to the stock set of `gnome-settings-daemon` plugins
+There is a corresponding `uninstall` target in the Makefile,
+which removes **gsdwacom4xfce**:
+
+```sh
+cd path/to/gsdwacom4xfce
+make uninstall
+```
+
+This reverts your session to the stock set of `gnome-settings-daemon` plugins
 and a normal startup.
 
 NOTE: **gsdwacom4xfce** currently breaks GNOME.
