@@ -1,3 +1,11 @@
+:point_right: **This project has moved to <https://github.com/Zeioth/XFCE-Wacom-Settings>**.
+
+This project is no longer actively maintained here. I don't really have the time properly maintain this repository, and I haven't been running Xfce for many months. Luckily, [@Zeioth](https://github.com/Zeioth) has very kindly offered to take over maintainership.
+
+Please update your Xfce installs to use [XFCE-Wacom-Settings](https://github.com/Zeioth/XFCE-Wacom-Settings) instead. The gsdwacom4xfce repository is now archived for historical purposes. :maple_leaf:
+
+--------------------------------------------------
+
 gsdwacom4xfce
 -------------
 
